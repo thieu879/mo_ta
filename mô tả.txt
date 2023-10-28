@@ -1,0 +1,7 @@
+1.cách chơi
+nút A: đi sang trái
+nút B: đi sang phải 
+nút W: để nhảy 
+Nút H,J,K để đánh
+2.nhiệm vụ
+quái vật xuất hiện ngẫu nhiên và di chuyển ngẫu nhiên, thời gian đếm ngược, nếu kill bằng hoặc hơn số lượng quái ra trong số lượng nhất định thì sễ chiến thắng còn nếu không đủ thì sẽ game over. 
